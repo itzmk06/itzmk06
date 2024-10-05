@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 <h3 align="center">A Software developer from India💓</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmk06&label=Profile%20views&color=0e75b6&style=flat" alt="itzmk06" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmk06" alt="itzmk06" /></a> </p>
-
 - 🔭 I’m currently working on [NexLab](https://github.com/itzmk06/NexLabs)
 
 - 🌱 I’m currently learning **Next.js, Machine Learning and DSA**
@@ -27,13 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzmk06&show_icons=true&locale=en" alt="itzmk06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmk06&" alt="itzmk06" /></p>
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
