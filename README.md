@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **react, Machine Learning**
 
-- 📫 How to reach me **itzmk06@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manoj-kumar-m-3a1876263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-kumar-m-3a1876263" height="30" width="40" /></a>
