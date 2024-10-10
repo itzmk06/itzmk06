@@ -72,10 +72,10 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzmk06&show_icons=true&theme=radical&hide_border=true" alt="itzmk06" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzmk06&show_icons=true&theme=merko&hide_border=true" alt="itzmk06" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmk06&theme=radical&hide_border=true" alt="itzmk06" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmk06&theme=merko&hide_border=true" alt="itzmk06" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmk06&show_icons=true&locale=en&layout=compact&theme=merko&hide_border=true" alt="itzmk06" />
