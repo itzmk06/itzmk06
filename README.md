@@ -8,22 +8,25 @@
 ---
 
 ### 🔬 Current Projects
-- **NexLab**: [NexLab GitHub Repo](https://github.com/itzmk06/NexLabs) - *A Developer Collaboration Platform*  
+- **NexLab**: [NexLab GitHub Repo](https://github.com/itzmk06/NexLabs) - *A Developer Collaboration Platform*
 - 🚀 Continuously learning **Next.js**, **Machine Learning**, and **DSA**
 
+---
+
 ### ⚡ Machine Learning & AI Toolkit
-| Skills         | Libraries       | Tools            |
-| -------------- | --------------- | ---------------- |
-| Supervised Learning   | scikit-learn     | Jupyter Notebooks  |
-| Unsupervised Learning | TensorFlow       | Google Colab       |
-| Data Visualization    | pandas, seaborn  | matplotlib         |
-| NLP                   | NLTK, spaCy      | Hugging Face       |
-| Computer Vision       | OpenCV           | MediaPipe          |
+| **Skills**             | **Libraries**      | **Tools**           |
+| ---------------------- | ------------------ | ------------------- |
+| Supervised Learning    | `scikit-learn`     | Jupyter Notebooks   |
+| Unsupervised Learning  | `TensorFlow`       | Google Colab        |
+| Data Visualization     | `pandas`, `seaborn`| `matplotlib`        |
+| Computer Vision        | `OpenCV`           |                     |
+
+---
 
 ### 💬 Ask Me About
 - **Frontend**: React, Next.js, Tailwind CSS
 - **Backend**: Express.js, Node.js
-- **Machine Learning**: Supervised and Unsupervised Learning, NLP, Computer Vision
+- **Machine Learning**: Supervised and Unsupervised Learning, Data Visualization, Computer Vision
 
 ---
 
@@ -52,27 +55,4 @@
 
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzmk06&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=itzmk06&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<h2 align="center">Most Used Languages</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmk06&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<h2 align="center">Visitor Count</h2>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/itzmk06/count.svg" />
-</p>
-
----
-
-#### ⚙️ Profile Under Construction 🛠️
-> Stay tuned for more features, like 3D visualizations of my GitHub stats, AI-integrated projects, and animations. More updates coming soon!
-
----
-
-> **Note:** Consider hosting some interactive demos of your projects through GitHub Pages or a personal portfolio site to keep it ultra-engaging!
+  <img src="https://github-readme-stats.vercel.app/api?
