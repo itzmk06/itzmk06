@@ -12,13 +12,17 @@
 ---
 
 ### 🌐 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/manoj-kumar-m-3a1876263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/vgmxcfjd2d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/manoj-kumar-m-3a1876263" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/vgmxcfjd2d" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
 
 ### 💻 Languages and Tools:
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
@@ -85,11 +89,11 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzmk06&show_icons=true&theme=radical&hide_border=true" alt="itzmk06" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzmk06&show_icons=true&theme=blue-dark&hide_border=true" alt="itzmk06" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmk06&theme=radical&hide_border=true" alt="itzmk06" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmk06&theme=blue-dark&hide_border=true" alt="itzmk06" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmk06&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="itzmk06" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmk06&show_icons=true&locale=en&layout=compact&theme=blue-dark&hide_border=true" alt="itzmk06" />
 </p>
