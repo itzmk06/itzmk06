@@ -1,58 +1,95 @@
-<h1 align="center">Hi there! 👋 I'm <span style="color: #F39C12;">Manoj Kumar</span></h1>
-<h3 align="center">Crafting the Future of Software Development and Machine Learning</h3>
+<h1 align="center">Hi 👋, I'm Manoj</h1>
+<h3 align="center">A Software Developer from India💓</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F39C12&center=true&vCenter=true&width=500&lines=Software+Developer+%7C+Machine+Learning+Enthusiast;Full-Stack+Developer;Building+NexLab;Mastering+Next.js+and+React;Empowering+with+Data+Science+%26+AI" alt="Typing SVG" />
-</div>
-
----
-
-### 🔬 Current Projects
-- **NexLab**: [NexLab GitHub Repo](https://github.com/itzmk06/NexLabs) - *A Developer Collaboration Platform*
-- 🚀 Continuously learning **Next.js**, **Machine Learning**, and **DSA**
-
----
-
-### ⚡ Machine Learning & AI Toolkit
-| **Skills**             | **Libraries**      | **Tools**           |
-| ---------------------- | ------------------ | ------------------- |
-| Supervised Learning    | `scikit-learn`     | Jupyter Notebooks   |
-| Unsupervised Learning  | `TensorFlow`       | Google Colab        |
-| Data Visualization     | `pandas`, `seaborn`| `matplotlib`        |
-| Computer Vision        | `OpenCV`           |                     |
-
----
-
-### 💬 Ask Me About
-- **Frontend**: React, Next.js, Tailwind CSS
-- **Backend**: Express.js, Node.js
-- **Machine Learning**: Supervised and Unsupervised Learning, Data Visualization, Computer Vision
-
----
-
-<h2 align="center">Connect with Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/manoj-kumar-m-3a1876263" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.leetcode.com/vgmxcfjd2d" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-leetcode-a-bharat-based-online-judge-for-algorithms-and-competitive-programming-logo-color-tal-revivo.png" alt="LeetCode"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F39C12&size=22&duration=3000&pause=1000&center=true&vCenter=true&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Building+NexLab;Mastering+Next.js+and+DSA;Empowering+with+Data+Science+%26+AI" alt="Typing SVG" />
+</p>
+
+- 🔭 I’m currently working on [**NexLab**](https://github.com/itzmk06/NexLabs)
+- 🌱 I’m currently learning **Next.js, Machine Learning, and DSA**
+- 💬 Ask me about **React, Machine Learning**
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/manoj-kumar-m-3a1876263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/vgmxcfjd2d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
+
+### 💻 Languages and Tools:
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-<h2 align="center">Tech Stack & Tools</h2>
+### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzmk06&show_icons=true&theme=radical&hide_border=true" alt="itzmk06" />
 </p>
-
----
-
-<h2 align="center">GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmk06&theme=radical&hide_border=true" alt="itzmk06" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmk06&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="itzmk06" />
+</p>
