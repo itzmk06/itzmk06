@@ -78,5 +78,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmk06&theme=radical&hide_border=true" alt="itzmk06" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmk06&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="itzmk06" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmk06&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="itzmk06" />
 </p>
