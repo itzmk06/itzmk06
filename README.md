@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on [**NexLab**](https://github.com/itzmk06/NexLabs)
 - 🌱 I’m currently learning **Next.js, Machine Learning, and DSA**
+- NOTE:- Most of the repo's are experiments and most of major colab projects are private ;)
 ---
 
 ### 🌐 Connect with me:
