@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj</h1>
-<h3 align="center">A Software Developer from India💓</h3>
+<h3 align="center">A Software Developer from India💓</h3> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F39C12&size=22&duration=3000&pause=1000&center=true&vCenter=true&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Building+NexLab;Mastering+Next.js+and+DSA;Empowering+with+Data+Science+%26+AI" alt="Typing SVG" />
