@@ -13,9 +13,7 @@
 
 - 🔭 I’m currently working on [**NexLab**](https://github.com/itzmk06/NexLabs)
 - 🌱 I’m currently learning **Next.js, Machine Learning, and DSA**
-- 📝 I regularly write articles on [My Blog](https://itzmk06.github.io/blog)
-- 📫 How to reach me **manoj@example.com**
-- ⚡ Fun fact: **I love coding and coffee!**
+- 📫 How to reach me **itzmk06@gmail.com**
 - NOTE: Most of the repo's are experiments and most of major colab projects are private ;)
 
 ---
@@ -95,9 +93,3 @@
 </p>
 
 ---
-
-### 🚀 Fun Animations:
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Rocket GIF" width="250" />
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Crazy GIF" width="250" />
-</p>
