@@ -5,20 +5,32 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F39C12&size=22&duration=3000&pause=1000&center=true&vCenter=true&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Building+NexLab;Mastering+Next.js+and+DSA;Empowering+with+Data+Science+%26+AI" alt="Typing SVG" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" width="500" />
+</p>
+
 - 🔭 I’m currently working on [**NexLab**](https://github.com/itzmk06/NexLabs)
 - 🌱 I’m currently learning **Next.js, Machine Learning, and DSA**
-- NOTE:- Most of the repo's are experiments and most of major colab projects are private ;)
+- 📝 I regularly write articles on [My Blog](https://itzmk06.github.io/blog)
+- 📫 How to reach me **manoj@example.com**
+- ⚡ Fun fact: **I love coding and coffee!**
+- NOTE: Most of the repo's are experiments and most of major colab projects are private ;)
+
 ---
 
 ### 🌐 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/manoj-kumar-m-3a1876263" target="blank">
+  <a href="https://linkedin.com/in/manoj-kumar-m-3a1876263" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/vgmxcfjd2d" target="blank">
+  <a href="https://www.leetcode.com/vgmxcfjd2d" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
+
+---
 
 ### 💻 Languages and Tools:
 <p align="center">
@@ -80,4 +92,12 @@
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmk06&show_icons=true&locale=en&layout=compact&theme=merko&hide_border=true" alt="itzmk06" />
+</p>
+
+---
+
+### 🚀 Fun Animations:
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Rocket GIF" width="250" />
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Crazy GIF" width="250" />
 </p>
